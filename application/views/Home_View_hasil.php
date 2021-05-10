@@ -62,7 +62,7 @@
 	<!-- header -->
 	<?php $this->load->view('layout/header') ?>
 	<!-- Product Area -->
-	<?php $this->load->view('layout/productArea') ?>	
+	<?php $this->load->view('layout/productArea_hasil') ?>	
 	<!-- Shop Services Area -->
 	<?php $this->load->view('layout/shopServicesArea') ?>
 	
